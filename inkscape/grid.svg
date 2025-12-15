@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="280mm"
+   version="1.1"
+   id="svg30834"
+   sodipodi:docname="grid.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30836"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.97045387"
+     inkscape:cx="196.81513"
+     inkscape:cy="529.13386"
+     inkscape:window-width="1463"
+     inkscape:window-height="1205"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg30834" />
+  <defs
+     id="defs30830">
+    <pattern
+       id="grid"
+       width="5mm"
+       height="5mm"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M 50 0 L 0 0 0 50"
+         fill="none"
+         stroke="black"
+         stroke-width="1"
+         id="path30827" />
+    </pattern>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     fill="url(#grid)"
+     id="rect30832" />
+</svg>
