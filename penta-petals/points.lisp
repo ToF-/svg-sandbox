@@ -1,10 +1,10 @@
 (defun rad (a)
   (/ (* a pi) 180.0))
 
-(defun points (x0 y0 r h)
+(defun points (x0 y0 r a h)
   (loop for i in '(0 1 2 3 4 5)
         collect
-        (let ((theta (rad (* i 72.0))))
+        (let ((theta (+ a (rad (* i 72.0)))))
           (cons
             (+ x0 (* r (cos theta)))
             (cons
